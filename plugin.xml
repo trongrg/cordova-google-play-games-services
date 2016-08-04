@@ -36,8 +36,8 @@
         <framework src="com.android.support:support-v4:+" />
 
 
-        <framework src="com.google.android.gms:play-services-games:8.3.0" />
-        <framework src="com.google.android.gms:play-services-plus:8.3.0" />
+        <framework src="com.google.android.gms:play-services-games:+" />
+        <framework src="com.google.android.gms:play-services-plus:+" />
 
 
         <config-file target="res/xml/config.xml" parent="/*">
